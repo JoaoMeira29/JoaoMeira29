@@ -56,10 +56,17 @@ Passionate about technology and innovation, I continually seek to improve my web
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoMeira29&show_icons=true&theme=dark" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoMeira29&theme=dark" alt="GitHub Streak" height="165"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoMeira29&show_icons=true&count_private=true&hide=prs&theme=tokyonight" alt="João Meira's GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoMeira29&theme=tokyonight" alt="João Meira's GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMeira29&layout=compact&theme=tokyonight" alt="João Meira's Top Languages" />
+</div>
 
 ## 🌐 Let's Connect
 
