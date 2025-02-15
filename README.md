@@ -1,7 +1,8 @@
 # 👨‍💻 João Meira | Software Developer
 
 ## 🚀 About Me
-Passionate Software Developer with a degree in Computer Systems Engineering from IPCA. Currently crafting innovative solutions at TMG Automotive, a leader in developing cutting-edge coatings for automotive interiors.
+Software Developer with a degree in Computer Systems Engineering from IPCA. I currently work at TMG Automotive, a leading company in the development and production of innovative coatings for automotive interiors.<br>
+Passionate about technology and innovation, I continually seek to improve my web development skills and apply theoretical knowledge to practical projects. Committed to creating efficient and user-friendly solutions that have a positive impact on end users.
 
 ---
 
@@ -26,7 +27,7 @@ Passionate Software Developer with a degree in Computer Systems Engineering from
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="45" height="45"/>
 </p>
 
 ### 🗄️ Databases
@@ -39,7 +40,7 @@ Passionate Software Developer with a degree in Computer Systems Engineering from
 ### ☁️ Cloud & DevOps
 <p align="left" style="background-color: #0d1117; padding: 10px; border-radius: 8px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="45" height="45"/>
 </p>
 
@@ -62,14 +63,14 @@ Passionate Software Developer with a degree in Computer Systems Engineering from
 
 ## 🌐 Let's Connect
 
-<p align="left" style="background-color: #0d1117; padding: 10px; border-radius: 8px;">
-  <a href="https://www.linkedin.com/in/joaomeira29/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/>
+<div align="left" style="background-color: #0d1117; padding: 10px; border-radius: 8px;">
+  <a href="https://www.linkedin.com/in/joaomeira29/" target="_blank" style="text-decoration: none; margin-right: 10px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="30" height="30"/>
   </a>
-  <a href="mailto:joaopcm29@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" width="45" height="45"/>
+  <a href="mailto:joaopcm29@gmail.com" style="text-decoration: none;">
+    <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="email" width="30" height="30"/>
   </a>
-</p>
+</div>
 
 ---
 
