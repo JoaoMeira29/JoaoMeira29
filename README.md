@@ -87,7 +87,6 @@ My professional focus is on engineering efficient, scalable, and user-centric sy
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoMeira29&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoMeira29&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
