@@ -15,21 +15,26 @@ My professional focus is on engineering efficient, scalable, and user-centric sy
 
 ## 💼 Professional Experience
 
-### **Software Engineer @ Prévoir Portugal** *Oct 2025 - Present* * **Programming and implementing** new core functionalities to expand insurance and financial software capabilities.
+### **Software Engineer @ Prévoir Portugal** *Oct 2025 - Present* 
+* **Programming and implementing** new core functionalities to expand insurance and financial software capabilities.
 * **Refactoring and optimizing** existing applications and databases to improve performance, security, and maintainability.
 * **Modernizing legacy modules** by designing end-to-end solutions focusing on clean code and user-centric features.
 
-### **Software Engineer @ TMG Automotive** *Jan 2025 – Oct 2025* * **Developed .NET (MVC)** internal tools focused on process optimization and CI/CD stability.
+### **Software Engineer @ TMG Automotive** *Jan 2025 – Oct 2025* 
+* **Developed .NET (MVC)** internal tools focused on process optimization and CI/CD stability.
 * **Engineered a multimedia solution (Muppies)** for real-time document rendering in public displays.
 * **Integrated DevOps tools (Jira API)** to automate project tracking and improve workflow visibility.
 
-### **Software Engineer @ Clibarcela** *Sept 2024 – Jan 2025* * **Architected a Full-stack system** using **Next.js** and **Node.js/Express.js** for secure medical data management.
+### **Software Engineer @ Clibarcela** *Sept 2024 – Jan 2025* 
+* **Architected a Full-stack system** using **Next.js** and **Node.js/Express.js** for secure medical data management.
 * **Implemented dynamic interfaces** with **Framer Motion** to enhance user engagement through responsive layouts.
 
-### **Software Engineer @ Sistrade - Software Consulting, S.A.** *Feb 2024 – Jun 2024* * **Developed a centralized Auth module** via **JWT**, securing access across microservices and reducing complexity.
+### **Software Engineer @ Sistrade - Software Consulting, S.A.** *Feb 2024 – Jun 2024* 
+* **Developed a centralized Auth module** via **JWT**, securing access across microservices and reducing complexity.
 * **Integrated legacy Angular.js applications** and conducted comprehensive system testing to ensure stability.
 
-### **Software Engineer @ Silsa Confecções, S.A.** *Apr 2021 – Jun 2021* * **Built a Full-stack corporate platform** from the ground up using **Vue.js** and **Laravel**.
+### **Software Engineer @ Silsa Confecções, S.A.** *Apr 2021 – Jun 2021* 
+* **Built a Full-stack corporate platform** from the ground up using **Vue.js** and **Laravel**.
 
 ---
 
