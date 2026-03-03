@@ -5,12 +5,18 @@ I am a **Software Engineer** at **Prévoir Portugal** and currently pursuing a *
 
 My professional focus is on engineering efficient, scalable, and user-centric systems. I have a diverse background ranging from fintech and insurance to industrial automation and healthcare systems. Currently, I am applying advanced engineering principles to the financial sector while researching **Cloud Native** and **Distributed Systems** through my Master's studies.
 
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Website-0073e6?style=for-the-badge&logo=portfolio&logoColor=white)](https://joaomeira29.github.io) -->  
+
 ---
 
 ## 🎓 Education
-* 📚 **M.Sc. in Computer Engineering** | IPCA (In Progress)
-* 🎓 **B.Sc. in Computer Systems Engineering** | IPCA
+* 📚 **M.Sc. in Computer Engineering** (In Progress)
+* 🎓 **B.Sc. in Computer Systems Engineering** 
 
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaomeira29/)
+
+<!--
 ---
 
 ## 💼 Professional Experience
@@ -87,24 +93,7 @@ My professional focus is on engineering efficient, scalable, and user-centric sy
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="45" height="45"/>
 </p>
+-->
 
----
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoMeira29&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="left" style="background-color: #0d1117; padding: 10px; border-radius: 8px;">
-  <a href="https://www.linkedin.com/in/joaomeira29/" target="_blank" style="text-decoration: none; margin-right: 10px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="30" height="30"/>
-  </a>
-  <a href="mailto:joaopcm29@gmail.com" style="text-decoration: none;">
-    <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="email" width="30" height="30"/>
-  </a>
-</div>
 
