@@ -5,9 +5,13 @@ Im a **Backend Engineer**. I build APIs and microservices for insurance, automot
 
 My professional focus is on engineering efficient, scalable, and user-centric systems. I have a diverse background ranging from fintech and insurance to industrial automation and healthcare systems. Currently, I am applying advanced engineering principles to the financial sector while researching **Cloud Native** and **Distributed Systems** through my Master's studies.
 
+I like systems that hold up under load and code the next person can read.
+
+Open to new opportunities. If you think Id be a good fit, send me a message.
+
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Website-0073e6?style=for-the-badge&logo=portfolio&logoColor=white)](https://joaomeira29.github.io) -->  
 
----
+<!--   ---    --> 
 
 ## Education
 * **M.Sc. in Computer Engineering** (In Progress)
