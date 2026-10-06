@@ -1,7 +1,7 @@
 # João Meira | Software Engineer
 
 ## About Me
-I am a **Software Engineer** at **Prévoir Portugal** and currently pursuing a **Master’s Degree in Computer Engineering**. I hold a Bachelor's degree in Computer Systems Engineering from **IPCA**.
+Im a **Backend Engineer**. I build APIs and microservices for insurance, automotive, healthcare and finance companies. Most of my work is REST API design, PostgreSQL performance tuning, and getting services into production and keeping them running. Im also finishing an **MSc in Computer Engineering at IPCA**, focused on cloud computing and big data.
 
 My professional focus is on engineering efficient, scalable, and user-centric systems. I have a diverse background ranging from fintech and insurance to industrial automation and healthcare systems. Currently, I am applying advanced engineering principles to the financial sector while researching **Cloud Native** and **Distributed Systems** through my Master's studies.
 
